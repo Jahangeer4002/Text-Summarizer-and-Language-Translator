@@ -19,15 +19,21 @@ A Python project that summarizes text and translates it into multiple languages 
 
 ## Activate venv:
 
-venv\Scripts\activate
+    ```bash
+    venv\Scripts\activate
+    ```
 
 ## Install dependencies:
 
-pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ## Usage
 
-python Main.py
+    ```bash
+    python Main.py
+    ```
 
 ## Dependencies
 
