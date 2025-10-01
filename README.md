@@ -31,8 +31,8 @@ python Main.py
 
 ## Dependencies
 
-**Python 3.11**
-**numpy**
-**nltk**
-**scikit-learn**
-**googletrans==4.0.0-rc1**
+- Python 3.11
+- numpy
+- nltk
+- scikit-learn
+- googletrans==4.0.0-rc1
