@@ -3,7 +3,9 @@ import re
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-nltk.download("punkt")
+
+nltk.download('punkt')
+nltk.download('punkt_tab')
 
 def extractive_summary(text, target_word_count):
     sentences = nltk.sent_tokenize(text)
